@@ -2,6 +2,9 @@
 
 # 🎮 Tic-Tac-Toe – Windows Forms App
 
+## 📸 Screenshot
+![Game Screenshot](screenshot.png)
+
 A simple two-player **Tic-Tac-Toe** game built using **C# and Windows Forms** (.NET Framework).  
 This project demonstrates basic game logic, event-driven programming, and UI development in a desktop environment.
 
