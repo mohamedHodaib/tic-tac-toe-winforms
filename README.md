@@ -42,7 +42,6 @@ This project demonstrates basic game logic, event-driven programming, and UI dev
 ## 📂 Project Structure
 ```
 TicTacToeGame/
-├── obj/             # Intermediate build files (ignored)
 ├── Form1.cs         # Main game logic and UI
 ├── Form1.Designer.cs
 ├── Program.cs       # Entry point
@@ -58,7 +57,7 @@ This project is open-source and free to use for educational or personal purposes
 ---
 
 ## ✍️ Author
-Mohamed Hegazi Bahlol – [LinkedIn](www.linkedin.com/in/mohamed-hodaib-2670b2344) | [GitHub]((https://github.com/mohamedHodaib))
+Mohamed Hegazi Bahlol – ![LinkedIn](www.linkedin.com/in/mohamed-hodaib-2670b2344) | ![GitHub]((https://github.com/mohamedHodaib))
 
 ---
 
