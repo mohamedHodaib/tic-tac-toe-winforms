@@ -1,0 +1,37 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Auto-generated files
+*.Designer.cs
+*.dbmdl
+
+# Windows Thumbnail/Explorer files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Backup files
+*.bak
+
+# Logs
+*.log
+
+# IIS/ASP.NET stuff (just in case)
+*.publishsettings
