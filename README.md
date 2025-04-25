@@ -57,7 +57,8 @@ This project is open-source and free to use for educational or personal purposes
 ---
 
 ## ✍️ Author
-Mohamed Hegazi Bahlol – [LinkedIn](https://www.linkedin.com/in/mohamed-hegazi) | [GitHub](https://github.com/mohamedHodaib)
+Mohamed Hegazi Bahlol – [LinkedIn](https://www.linkedin.com/in/MohamedHodaib) | [GitHub](https://github.com/mohamedHodaib)
+
 
 
 ---
