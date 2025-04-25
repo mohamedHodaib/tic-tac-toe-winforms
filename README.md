@@ -44,7 +44,7 @@ This project demonstrates basic game logic, event-driven programming, and UI dev
 
 Want to try the game without building the code?
 
-👉 [Download Installer (ZIP)](./Tic-Tac-Toe.zip)
+👉 [Download Installer (ZIP)](Tic-Tac-Toe.zip)
 
 ### 🧑‍💻 How to Install
 
