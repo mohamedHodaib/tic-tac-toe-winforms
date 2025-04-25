@@ -20,7 +20,7 @@ This project demonstrates basic game logic, event-driven programming, and UI dev
 ---
 
 ## 🛠️ How to Run This Project
-
+#option 1:
 1. **Clone the repository**:
    ```
    git clone https://github.com/your-username/tic-tac-toe-winforms.git
@@ -36,6 +36,21 @@ This project demonstrates basic game logic, event-driven programming, and UI dev
 ✅ Make sure you have:
 - Visual Studio installed  
 - Targeting **.NET Framework 4.x**
+
+
+
+#option 2:
+## 💾 Download
+
+Want to try the game without building the code?
+
+👉 [Download Installer (ZIP)](./TicTacToeInstaller.zip)
+
+### 🧑‍💻 How to Install
+
+1. Download the ZIP file.
+2. Extract it anywhere.
+3. Run the setup file to install the game.
 
 ---
 
