@@ -52,10 +52,7 @@ Want to try the game without building the code?
 2. Extract it anywhere.
 3. Run the setup file to install the game.
 
-```
-
 ---
-
 ## 📄 License
 This project is open-source and free to use for educational or personal purposes.
 
