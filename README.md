@@ -23,7 +23,7 @@ This project demonstrates basic game logic, event-driven programming, and UI dev
 #option 1:
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/tic-tac-toe-winforms.git
+   git clone https://github.com/mohamedHodaib/tic-tac-toe-winforms.git
    ```
 
 2. **Open the solution**:
@@ -52,16 +52,6 @@ Want to try the game without building the code?
 2. Extract it anywhere.
 3. Run the setup file to install the game.
 
----
-
-## 📂 Project Structure
-```
-TicTacToeGame/
-├── Form1.cs         # Main game logic and UI
-├── Form1.Designer.cs
-├── Program.cs       # Entry point
-├── TicTacToeGame.sln
-└── README.md
 ```
 
 ---
